@@ -1,1 +1,4 @@
 D:\Learn\Linga_notes\linga-notes>npx quartz build --serve
+git status
+git add .
+git commit -m 
