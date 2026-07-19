@@ -1,0 +1,1 @@
+D:\Learn\Linga_notes\linga-notes>npx quartz build --serve
