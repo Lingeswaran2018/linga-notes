@@ -1,0 +1,129 @@
+content/
+│
+├── index.md                     # Home Page
+│
+├── ai/
+│   ├── machine-learning/
+│   ├── deep-learning/
+│   ├── generative-ai/
+│   ├── llms/
+│   ├── rag/
+│   ├── vector-databases/
+│   ├── agents/
+│   ├── embeddings/
+│   ├── prompt-engineering/
+│   ├── fine-tuning/
+│   └── model-serving/
+│
+├── nlp/
+│   ├── transformers/
+│   ├── ner/
+│   ├── relation-extraction/
+│   ├── knowledge-graphs/
+│   ├── tokenization/
+│   ├── multilingual/
+│   ├── tamil-nlp/
+│   ├── tts/
+│   ├── asr/
+│   └── datasets/
+│
+├── programming/
+│   ├── python/
+│   ├── javascript/
+│   ├── typescript/
+│   ├── java/
+│   ├── csharp/
+│   └── algorithms/
+│
+├── web-development/
+│   ├── html/
+│   ├── css/
+│   ├── react/
+│   ├── angular/
+│   ├── nextjs/
+│   ├── nodejs/
+│   ├── express/
+│   └── mongodb/
+│
+├── cloud/
+│   ├── aws/
+│   │   ├── ec2/
+│   │   ├── s3/
+│   │   ├── ebs/
+│   │   ├── efs/
+│   │   ├── iam/
+│   │   ├── vpc/
+│   │   ├── ecs/
+│   │   ├── eks/
+│   │   └── lambda/
+│   │
+│   ├── azure/
+│   └── gcp/
+│
+├── devops/
+│   ├── docker/
+│   ├── kubernetes/
+│   ├── terraform/
+│   ├── ansible/
+│   ├── github-actions/
+│   ├── jenkins/
+│   └── linux/
+│
+├── databases/
+│   ├── mysql/
+│   ├── postgresql/
+│   ├── mongodb/
+│   ├── redis/
+│   ├── elasticsearch/
+│   └── vector-db/
+│
+├── system-design/
+│   ├── architecture/
+│   ├── microservices/
+│   ├── scalability/
+│   ├── caching/
+│   ├── messaging/
+│   └── design-patterns/
+│
+├── cybersecurity/
+│
+├── research/
+│   ├── papers/
+│   ├── ideas/
+│   ├── experiments/
+│   ├── datasets/
+│   └── publications/
+│
+├── interview/
+│   ├── coding/
+│   ├── machine-learning/
+│   ├── system-design/
+│   ├── python/
+│   ├── sql/
+│   └── behavioral/
+│
+├── projects/
+│   ├── tamil-re/
+│   ├── tamil-tts/
+│   ├── linga-notes/
+│   └── archive/
+│
+├── books/
+│
+├── courses/
+│
+├── tutorials/
+│
+├── cheatsheets/
+│
+├── snippets/
+│
+├── tools/
+│
+├── daily/
+│   ├── 2026/
+│   └── templates/
+│
+├── resources/
+│
+└── archive/
