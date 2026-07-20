@@ -4,27 +4,7 @@ Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) are 
 
 The overall relationship can be visualized as:
 ![Diagram](../images/lecture1.png)
-```text
-Artificial Intelligence (AI)
-        │
-        ▼
-Machine Learning (ML)
-        │
-        ▼
-Deep Learning (DL)
-        │
-        ▼
-Artificial Neural Networks (ANNs)
-        │
-        ▼
-Learning Paradigms
-        │
-        ▼
-Neural Network Architectures
-        │
-        ▼
-Applications
-```
+
 
 ---
 
@@ -118,6 +98,10 @@ The choice of architecture and learning paradigm depends on the type of problem 
 
 
 ![Diagram](../images/perceptron_evolution.png)
+
+
+# Single percepton and Feed foward neural network in one view
+![Diagram](../images/FFNN.png)
 
 ---
 
