@@ -20,17 +20,6 @@ This plugin accepts the following configuration options:
 
 - `links`: A map of link labels to their URLs to display in the footer. Defaults to `{}`.
 
-### Default options
-
-```yaml title="quartz.config.yaml"
-- source: github:quartz-community/footer
-  enabled: true
-  options:
-    links:
-      GitHub: https://github.com/jackyzha0/quartz
-      Discord Community: https://discord.gg/cRFFHYye7t
-```
-
 ## API
 
 - Category: Component
