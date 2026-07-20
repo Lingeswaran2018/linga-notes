@@ -112,48 +112,12 @@ The choice of architecture and learning paradigm depends on the type of problem 
 
 # Overall Relationship
 ![Diagram](../images/architecture.png)
-```text
-Artificial Intelligence
-        │
-        ▼
-Machine Learning
-        │
-        ▼
-Deep Learning
-        │
-        ▼
-Artificial Neural Networks
-        │
-        ├── Learning Paradigms
-        │      ├── Supervised Learning
-        │      ├── Unsupervised Learning
-        │      ├── Semi-supervised Learning
-        │      ├── Reinforcement Learning
-        │      └── Generative Learning
-        │
-        ├── Neural Network Architectures
-        │      ├── MLP
-        │      ├── CNN
-        │      ├── RNN
-        │      ├── LSTM
-        │      ├── GRU
-        │      ├── Transformer
-        │      ├── GAN
-        │      ├── Autoencoder
-        │      └── GNN
-        │
-        └── Application Domains
-               ├── Computer Vision
-               ├── Computer Audition
-               ├── NLP & NLU
-               ├── Sequence Learning
-               ├── Robotics
-               ├── Healthcare
-               ├── Finance
-               ├── Cybersecurity
-               ├── Autonomous Systems
-               └── Generative AI
-```
+
+
+# Evolution of ANN
+
+
+![Diagram](../images/perceptron_evolution.png)
 
 ---
 
