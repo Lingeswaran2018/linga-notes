@@ -1,17 +1,19 @@
+
 # Linga Notes
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Linga Notes is a lightweight personal knowledge base for machine learning and  linguistics and related topics. It organizes notes, tutorials, and references in a simple folder structure so you can focus on writing and learning.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+Key features
+- Organized content folders for topics like Deep Learning, NLP, DevOps, and Research
+- Static site-ready output in `public/` for easy publishing
+- Simple markdown-first workflow with config files in the repo root
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Repository structure (high level)
+- `content/` — your notes and chapters (markdown)
+- `docs/` — site documentation and guides
+- `public/` — generated site assets ready for publishing
+- `quartz/` — build scripts and tooling
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
-## Sponsors
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+
