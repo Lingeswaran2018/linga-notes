@@ -583,7 +583,6 @@ These services are delivered through a global infrastructure of Regions, Availab
 - [[Amazon VPC]]
 
 ---
-
 # Review Questions
 
 1. What is cloud computing?

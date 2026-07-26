@@ -116,3 +116,6 @@ The choice of architecture and learning paradigm depends on the type of problem 
 - **Application Domains** represent **where the trained models are used**.
 
 Together, these components form the complete modern AI ecosystem, progressing from intelligent systems to specialized deep learning models that solve real-world problems.
+
+For more detail:-
+https://dzone.com/articles/the-very-basic-introduction-to-feed-forward-neural
