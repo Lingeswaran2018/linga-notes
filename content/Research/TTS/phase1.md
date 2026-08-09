@@ -53,3 +53,68 @@ Mel Spectrogram
 BigVGAN
 
 ```
+
+# Environmental plans
+## Environment 1
+Development
+Google Colab
+
+Purpose:
+
+install ESPnet
+understand recipes
+debug
+train tiny dataset
+inference
+
+## Environment 2
+
+Research
+Cloud GPU
+
+Purpose:
+
+Train
+
+IndicVoices-R
+
+↓
+
+FastSpeech2
+
+↓
+
+Baseline
+
+## Environment 3
+
+Thesis
+
+Train
+
+IndicVoices-R
+
+↓
+
+Uyir–Mei
+
+↓
+
+FastSpeech2
+
+↓
+
+Evaluation
+
+### Current procedure
+Understand the complete ESPnet TTS pipeline
+        ↓
+Run FastSpeech2 on a very small subset
+        ↓
+Understand every stage
+        ↓
+Replace LJSpeech with IndicVoices-R
+        ↓
+Train Tamil Baseline
+        ↓
+Research (Uyir–Mei)
