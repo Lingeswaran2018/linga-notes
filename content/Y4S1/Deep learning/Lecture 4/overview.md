@@ -31,3 +31,7 @@
                               Dense layers
                                     │
                                   Output
+
+
+# From input image to kernel relation
+![Diagram](../images/RBG2Kernel.png)
