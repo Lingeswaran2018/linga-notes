@@ -13,3 +13,21 @@
 | Weights             | Different connections       | Filters shared across locations      |
 | Feature learning    | General                     | Local → hierarchical visual features |
 | Best suited for     | General tabular/vector data | Images/spatial data                  |
+
+## Simple connection
+
+                 NEURAL NETWORK
+                       │
+          ┌────────────┴────────────┐
+          │                         │
+     Fully Connected               CNN
+          │                         │
+       Flatten                 Convolution
+          │                         │
+      Dense layers                ReLU
+          │                         │
+        Output                  Pooling
+                                    │
+                              Dense layers
+                                    │
+                                  Output
