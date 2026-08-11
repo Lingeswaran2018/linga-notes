@@ -43,4 +43,21 @@
       Your browser does not support the video tag.
 </video> -->
 
+### Step 1
 ![alt text](image1.png)
+
+### Step 2
+![alt text](image2.png)
+
+### Step 3
+![alt text](image3.png)
+
+### Step 4
+![alt text](image4.png)
+
+### Step 5
+![alt text](image5.png)
+
+### Step 6
+![alt text](image6.png)
+
