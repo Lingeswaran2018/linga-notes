@@ -34,4 +34,13 @@
 
 
 # From input image to kernel relation
-![Diagram](../images/RBG2Kernel.png)
+![Diagram](../images/RGB2Kernel.png)
+
+<!-- ## Video -->
+
+<!-- <video controls width="100%">
+      <source src="../../../videos/1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video> -->
+
+![alt text](image1.png)
