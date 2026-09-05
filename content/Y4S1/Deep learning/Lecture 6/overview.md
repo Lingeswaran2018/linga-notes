@@ -22,3 +22,11 @@
 
 # RNN_Text_prediction
 ![Diagram](../images/RNN_Text_prediction.png)
+
+
+# LSTM overview
+
+
+
+# processing_RNN_vs_LSTM
+![Diagram](../images/processing_RNN_vs_LSTM.png)
