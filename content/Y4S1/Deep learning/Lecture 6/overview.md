@@ -30,3 +30,6 @@
 
 # processing_RNN_vs_LSTM
 ![Diagram](../images/processing_RNN_vs_LSTM.png)
+
+# LSTM Architecture
+![Diagram](../images/LSTM.png)
